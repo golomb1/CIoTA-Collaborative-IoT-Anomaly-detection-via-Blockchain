@@ -68,3 +68,8 @@ Finally, to ensure that the rumors have indeed come from a specific agent, rumor
 The following describes an agent's three parallel processes:
 
 ![Image](LLD3-1.png?raw=true)
+
+
+# Using The Code
+We will update CIoTA code soon; we apologize for the inconvenience.
+
