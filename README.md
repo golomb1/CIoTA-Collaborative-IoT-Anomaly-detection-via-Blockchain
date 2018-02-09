@@ -67,4 +67,4 @@ Finally, to ensure that the rumors have indeed come from a specific agent, rumor
 
 The following describes an agent's three parallel processes:
 
-![Image](images/LLD3-1.png?raw=true)
+![Image](LLD3-1.png?raw=true)
