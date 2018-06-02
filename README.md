@@ -4,7 +4,7 @@
 In this repository you will find a C++14 implementation of CIoTA; 
 a lightweight framework that utilizes the blockchain concept to perform distributed and collaborative anomaly detection for devices with limited resources. 
 From, Tomer Golomb, Yisroel Mirsky and Yuval Elovici.
-"CIoTA: Collaborative IoT Anomaly Detection via Blockchain", Network and Distributed System Security Symposium 2018 (NDSS'18) Workshop on Decentralized IoT Security and Standards (DISS).
+
 
 ## What is CIoTA?
 
