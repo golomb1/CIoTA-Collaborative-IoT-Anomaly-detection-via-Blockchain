@@ -1,0 +1,11 @@
+//
+// Created by master on 10/01/18.
+//
+
+#ifndef CIOTA_COMPLETE_PROJECT_TEST_SUITE_1_H
+#define CIOTA_COMPLETE_PROJECT_TEST_SUITE_1_H
+
+
+bool TestSuite1();
+
+#endif //CIOTA_COMPLETE_PROJECT_TEST_SUITE_1_H

@@ -1,0 +1,12 @@
+//
+// Created by golombt on 28/12/2017.
+//
+
+#ifndef CIOTA_COMPLETE_PROJECT_JUMP_TRACER_TEST_H
+#define CIOTA_COMPLETE_PROJECT_JUMP_TRACER_TEST_H
+
+
+bool JumpTableTest();
+
+
+#endif //CIOTA_COMPLETE_PROJECT_JUMP_TRACER_TEST_H

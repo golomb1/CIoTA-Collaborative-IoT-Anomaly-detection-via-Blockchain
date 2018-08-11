@@ -1,0 +1,11 @@
+//
+// Created by golombt on 28/12/2017.
+//
+
+#ifndef CIOTA_COMPLETE_PROJECT_CIOTA_TEST_AGENT_H
+#define CIOTA_COMPLETE_PROJECT_CIOTA_TEST_AGENT_H
+
+
+bool CIoTA_TestAgent();
+
+#endif //CIOTA_COMPLETE_PROJECT_CIOTA_TEST_AGENT_H
