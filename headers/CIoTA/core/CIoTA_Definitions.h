@@ -1,0 +1,15 @@
+//
+// Created by master on 10/01/18.
+//
+
+#ifndef CIOTA_COMPLETE_PROJECT_CIOTA_DEFINITIONS_H
+#define CIOTA_COMPLETE_PROJECT_CIOTA_DEFINITIONS_H
+
+#define MESSAGE_CHAIN_TYPE 1
+#define CIoTA_RECORD_SEED_LENGTH(r)         (*((size_t*)RECORD_CONTENT(r)))
+#define CIoTA_RECORD_SEED(r)                (RECORD_CONTENT(r) + sizeof(size_t))
+#define CIoTA_RECORD_CONTENT_LENGTH(r)      (RECORD_CONTENT_LENGTH(r) - sizeof(size_t)  - CIoTA_RECORD_SEED_LENGTH(r))
+#define CIoTA_RECORD_CONTENT(r)             ((CIoTA_RECORD_SEED(r)) + CIoTA_RECORD_SEED_LENGTH(r))
+
+
+#endif //CIOTA_COMPLETE_PROJECT_CIOTA_DEFINITIONS_H
