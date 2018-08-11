@@ -1,0 +1,26 @@
+[Tracer]
+application = ./demoApp
+mask = (~0) ^ 0x000000FF
+filterFrom    = 0x00010000
+filterTo      = 0x0001a000
+windows       = 10000
+threshold     = 50
+trainInterval = 1800
+
+[CIoTA]
+multicastGroup    = 225.0.0.37
+port              = 12345
+controlIP         = 132.72.80.62
+controlPort       = 9999
+pConsensus        = 1
+shareInterval = 5
+receiveInterval = 5
+alpha             = 2
+completeBlockSize = 2
+capacity = 102400
+fragmentSize = 1024
+EntityKey         = SERVER
+
+[Log]
+loggerSize     = 1048576 * 5
+loggerRotation = 3
