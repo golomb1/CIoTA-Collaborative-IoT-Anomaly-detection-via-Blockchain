@@ -6,7 +6,6 @@ a lightweight framework that utilizes the blockchain concept to perform distribu
 
 From, Tomer Golomb, Yisroel Mirsky and Yuval Elovici.
 
-"CIoTA: Collaborative IoT Anomaly Detection via Blockchain", Network and Distributed System Security Symposium 2018 (NDSS'18) Workshop on Decentralized IoT Security and Standards (DISS).
 
 ## What is CIoTA?
 The Internet of Things (IoT) is the next evolution of the Internet<cite>[1]</cite>. 
@@ -357,10 +356,6 @@ We recommend keeping it on 4 (default) to understand what going on.
 This project is licensed under the MIT License - see the LICENSE.txt file for details
 
 # Citations
-If you use the source code or implement CIoTA, please cite the following paper:
-
-Tomer Golomb, Yisroel Mirsky, and Yuval Elovici, "CIoTA: Collaborative IoT Anomaly Detection via Blockchain", Network and Distributed System Security Symposium 2018 (NDSS'18) Workshop on Decentralized IoT Security and Standards (DISS).
-
 Tomer Golomb golombt@post.bgu.ac.il
 
 # References
